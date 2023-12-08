@@ -1,4 +1,4 @@
-# Create a Flask server
+#Create a Flask server
 from flask import Flask, request, jsonify
 import joblib
 import numpy as np
